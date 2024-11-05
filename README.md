@@ -1,7 +1,7 @@
 # RegEx Tutorial
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ## Description
-A gist guide into the world of regular expressions. We will explain how it functions and break down each part of the expression to explain what it does.
+A gist guide into the world of regular expressions. We will explain how it functions and break down each part of the expression to describe what it does.
 ## Table of Contents
 - [Gist](#gist)
 - [License](#license)
