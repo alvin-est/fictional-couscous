@@ -16,7 +16,7 @@ A gist guide into the world of regular expressions. We will explain how it funct
 ## Table of Contents
 
 **Regular Expressions**
-- [RegEx As a String](#regular-expressions)
+- [RegEx as a String](#regular-expressions)
 - [Component Breakdown](#component-breakdown)
 
 **Further Information**
